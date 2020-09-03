@@ -1,2 +1,5 @@
 /* CSS files add styling rules to your content */
 font-family: 'Rubik', sans-serif;
+span {
+  font-style: italic;
+}
